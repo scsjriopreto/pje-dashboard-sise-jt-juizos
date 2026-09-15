@@ -1,73 +1,236 @@
 {
-	"1ª Vara do Trabalho de São José do Rio Preto": {
-		"MARCEL DE AVILA SOARES MARQUES": [2,4,6,8],
-		"RINALDO SOLDAN JOAZEIRO": [1,3,5,7],
-		"CHRISTOPHE GOMES DE OLIVEIRA": [9,0]
-	},
-	"2ª Vara do Trabalho de São José do Rio Preto": {
-		"SIDNEY PONTES BRAGA": [1,3,5,7],
-		"ADRIANA FONSECA PERIN": [2,4,6,8],
-		"CHRISTOPHE GOMES DE OLIVEIRA": [9,0]
-	},
-	"3ª Vara do Trabalho de São José do Rio Preto": {
-		"SAMANTHA IANSEN FALLEIROS": [1,3,5,7,9],
-		"RODARTE RIBEIRO": [2,4,6,8,0],
-		"RODRIGO FERNANDO SANITA": ["Férias de 16/09/2026 a 05/10/2026"]
-	},
-	"4ª Vara do Trabalho de São José do Rio Preto": {
-		"CONCEICAO APARECIDA ROCHA DE PETRIBU FARIA": [1,3,5,7,9],
-		"PRISCILA GIL DE SOUZA MURAD": [2,4,6,8,0],
-		"RODRIGO FERNANDO SANITA": ["Férias de 16/09/2026 a 05/10/2026"]
-	},
-	"1ª Vara do Trabalho de Catanduva": {
-		"CAUE BRAMBILLA DA SILVA": [1,3,5,7,9],
-		"SOFIA LIMA DUTRA": [0,2,4,6,8]
-	},
-	"2ª Vara do Trabalho de Catanduva": {
-		"FERNANDO RODRIGUES CARVALHO": ["Férias de 16/09/2026 a 05/10/2026"],
-		"MAURO CESAR MORELI": [0,2,4,6,8,1,3,5,7,9]
-	},
-    "Vara do Trabalho de Votuporanga": {
-		"SANDRA MARIA ZIRONDI":[1,2,3,4,5,6,7],
-        "JOSE RODRIGUES DA SILVA NETO":[0,8,9]
-	},
-	"Vara do Trabalho de Tanabi": {
-		"JULIO CESAR TREVISAN RODRIGUES": [1,2,3,4,5,6,7],
-        "JOSE RODRIGUES DA SILVA NETO":[0,8,9]
-	},
-	"Vara do Trabalho de Fernandópolis": {
-		"VIRGILIO DE PAULA BASSANELLI": [0,1,2,3,4,5,6,7,8,9]
-	},
-	"Vara do Trabalho de Jales": {
-		"ARTHUR ALBERTIN NETO": [1,2,3,4,5,6,7,8],
-		"ANGELA NAIRA BELINSKI": [9,0],
-	},
-	"Vara do Trabalho de Barretos": {
-		"LEANDRO RENATO CATELAN ENCINAS": [1,3,5,7],
-		"TONY EVERSON SIMAO CARMONA": [2,4,6,8],
-		"ANGELA NAIRA BELINSKI": [0,9]
-	},
-	"Vara do Trabalho de José Bonifácio": {
-		"ANA PAULA SILVA CAMPOS MISKULIN": [1,2,3,4,5,6,7],
-		"ALUISIO TEODORO FALLEIROS": [8,9,0]
-	},
-	"Vara do Trabalho de Olímpia": {
-		"DANIELA RENATA REZENDE FERREIRA BORGES": [1,2,3,4,5,6,7],
-		"ALUISIO TEODORO FALLEIROS": [8,9,0]
-	},
-	"Postos Avançados":[
-		"CON1 - São José do Rio Preto",
-		"CON2 - São José do Rio Preto",
-		"LIQ1 - São José do Rio Preto",
-		"LIQ2 - São José do Rio Preto",
-		"EXE1 - São José do Rio Preto",
-		"EXE2 - São José do Rio Preto",
-		"EXE3 - São José do Rio Preto",
-		"EXE4 - São José do Rio Preto",
-		"DIVEX - São José do Rio Preto",
-		"Órgão Centralizador de Leilões Judiciais de São José do Rio Preto",
-		"DAM - São José do Rio Preto",
-		"Juizado Especial da Infância e Adolescência de São José do Rio Preto",
-		"1º Núcleo de Justiça 4.0"
-	]
+  "1ª Vara do Trabalho de São José do Rio Preto": {
+    "MARCEL DE AVILA SOARES MARQUES": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "RINALDO SOLDAN JOAZEIRO": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "CHRISTOPHE GOMES DE OLIVEIRA": [
+      9,
+      0
+    ]
+  },
+  "2ª Vara do Trabalho de São José do Rio Preto": {
+    "SIDNEY PONTES BRAGA": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "ADRIANA FONSECA PERIN": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "CHRISTOPHE GOMES DE OLIVEIRA": [
+      9,
+      0
+    ]
+  },
+  "3ª Vara do Trabalho de São José do Rio Preto": {
+    "SAMANTHA IANSEN FALLEIROS": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "RODARTE RIBEIRO": [
+      2,
+      4,
+      6,
+      8,
+      0
+    ],
+    "RODRIGO FERNANDO SANITA": [
+      "Férias de 16/09/2026 a 05/10/2026"
+    ]
+  },
+  "4ª Vara do Trabalho de São José do Rio Preto": {
+    "CONCEICAO APARECIDA ROCHA DE PETRIBU FARIA": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "PRISCILA GIL DE SOUZA MURAD": [
+      2,
+      4,
+      6,
+      8,
+      0
+    ],
+    "RODRIGO FERNANDO SANITA": [
+      "Férias de 16/09/2026 a 05/10/2026"
+    ]
+  },
+  "1ª Vara do Trabalho de Catanduva": {
+    "CAUE BRAMBILLA DA SILVA": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "SOFIA LIMA DUTRA": [
+      0,
+      2,
+      4,
+      6,
+      8
+    ]
+  },
+  "2ª Vara do Trabalho de Catanduva": {
+    "FERNANDO RODRIGUES CARVALHO": [
+      "Férias de 16/09/2026 a 05/10/2026"
+    ],
+    "MAURO CESAR MORELI": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      1,
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  "Vara do Trabalho de Votuporanga": {
+    "SANDRA MARIA ZIRONDI": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "JOSE RODRIGUES DA SILVA NETO": [
+      0,
+      8,
+      9
+    ]
+  },
+  "Vara do Trabalho de Tanabi": {
+    "JULIO CESAR TREVISAN RODRIGUES": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "JOSE RODRIGUES DA SILVA NETO": [
+      0,
+      8,
+      9
+    ]
+  },
+  "Vara do Trabalho de Fernandópolis": {
+    "VIRGILIO DE PAULA BASSANELLI": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "Vara do Trabalho de Jales": {
+    "ARTHUR ALBERTIN NETO": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "ANGELA NAIRA BELINSKI": [
+      9,
+      0
+    ]
+  },
+  "Vara do Trabalho de Barretos": {
+    "LEANDRO RENATO CATELAN ENCINAS": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "TONY EVERSON SIMAO CARMONA": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "ANGELA NAIRA BELINSKI": [
+      0,
+      9
+    ]
+  },
+  "Vara do Trabalho de José Bonifácio": {
+    "ANA PAULA SILVA CAMPOS MISKULIN": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "ALUISIO TEODORO FALLEIROS": [
+      8,
+      9,
+      0
+    ]
+  },
+  "Vara do Trabalho de Olímpia": {
+    "DANIELA RENATA REZENDE FERREIRA BORGES": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "ALUISIO TEODORO FALLEIROS": [
+      8,
+      9,
+      0
+    ]
+  },
+  "Postos Avançados": [
+    "CON1 - São José do Rio Preto",
+    "CON2 - São José do Rio Preto",
+    "LIQ1 - São José do Rio Preto",
+    "LIQ2 - São José do Rio Preto",
+    "EXE1 - São José do Rio Preto",
+    "EXE2 - São José do Rio Preto",
+    "EXE3 - São José do Rio Preto",
+    "EXE4 - São José do Rio Preto",
+    "DIVEX - São José do Rio Preto",
+    "Órgão Centralizador de Leilões Judiciais de São José do Rio Preto",
+    "DAM - São José do Rio Preto",
+    "Juizado Especial da Infância e Adolescência de São José do Rio Preto",
+    "1º Núcleo de Justiça 4.0"
+  ]
 }
