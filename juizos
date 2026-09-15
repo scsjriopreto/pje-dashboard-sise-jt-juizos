@@ -28,10 +28,12 @@
 		"MAURO CESAR MORELI": [0,2,4,6,8]
 	},
 "Vara do Trabalho de Votuporanga": {
-		"SANDRA MARIA ZIRONDI":[0,1,2,3,4,5,6,7,8,9]
+		"SANDRA MARIA ZIRONDI":[1,2,3,4,5,6,7],
+        "JOSE RODRIGUES DA SILVA NETO":[0,8,9]
 	},
 	"Vara do Trabalho de Tanabi": {
-		"JULIO CESAR TREVISAN RODRIGUES": [0,1,2,3,4,5,6,7,8,9]
+		"JULIO CESAR TREVISAN RODRIGUES": [1,2,3,4,5,6,7],
+        "JOSE RODRIGUES DA SILVA NETO":[0,8,9]
 	},
 	"Vara do Trabalho de Fernandópolis": {
 		"VIRGILIO DE PAULA BASSANELLI": [0,1,2,3,4,5,6,7,8,9]
