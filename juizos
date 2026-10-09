@@ -1,16 +1,16 @@
 {
   "1ª Vara do Trabalho de São José do Rio Preto": {
-    "MARCEL DE AVILA SOARES MARQUES": [
-      2,
-      4,
-      6,
-      8
+    "MARCEL DE AVILA SOARES MARQUES": ["Férias de 09/10/2026 a 01/11/2026"      
     ],
     "RINALDO SOLDAN JOAZEIRO": [
       1,
       3,
       5,
-      7
+      7,
+      2,
+      4,
+      6,
+      8
     ],
     "CHRISTOPHE GOMES DE OLIVEIRA": [
       9,
@@ -18,17 +18,17 @@
     ]
   },
   "2ª Vara do Trabalho de São José do Rio Preto": {
-    "SIDNEY PONTES BRAGA": [
-      1,
-      3,
-      5,
-      7
-    ],
+    "SIDNEY PONTES BRAGA": ["Férias de 09/10/2026 a 01/11/2026"
+     ],
     "ADRIANA FONSECA PERIN": [
       2,
       4,
       6,
-      8
+      8,
+      1,
+      3,
+      5,
+      7
     ],
     "CHRISTOPHE GOMES DE OLIVEIRA": [
       9,
@@ -59,13 +59,13 @@
       1,
       3,
       5,
-      7
-    ],
-    "PRISCILA GIL DE SOUZA MURAD": [
+      7,
       2,
       4,
       6,
       8
+    ],
+    "PRISCILA GIL DE SOUZA MURAD": ["Férias de 10/10/2026 a 25/10/2026"
     ],
     "RODRIGO FERNANDO SANITA": [
       9,
@@ -73,19 +73,19 @@
     ]
   },
   "1ª Vara do Trabalho de Catanduva": {
-    "CAUE BRAMBILLA DA SILVA": [
-      1,
-      3,
-      5,
-      7,
-      9
-    ],
+    "CAUE BRAMBILLA DA SILVA": ["Compensação de 13/10/2026 a 16/10/2026"
+      ],
     "FERNANDA AMABILE MARINHO DE SOUZA GOMES": [
       0,
       2,
       4,
       6,
-      8
+      8,
+      1,
+      3,
+      5,
+      7,
+      9
     ]
   },
   "2ª Vara do Trabalho de Catanduva": {
