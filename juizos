@@ -180,7 +180,11 @@
     "ANGELA NAIRA BELINSKI": ["Compensação de plantão de 16/11/2026 a 17/11/2026 e Férias de 18/11/2026 a 17/12/2026"]
   },
   "Vara do Trabalho de José Bonifácio": {
-    "ANA PAULA SILVA CAMPOS MISKULIN": [
+    "ANA PAULA SILVA CAMPOS MISKULIN": ["Férias de 18/11/2026 a 17/12/2026"],
+    "ALUISIO TEODORO FALLEIROS": [
+      8,
+      9,
+      0,
       1,
       2,
       3,
@@ -188,15 +192,14 @@
       5,
       6,
       7
-    ],
-    "ALUISIO TEODORO FALLEIROS": [
-      8,
-      9,
-      0
      ]
   },
   "Vara do Trabalho de Olímpia": {
-    "DANIELA RENATA REZENDE FERREIRA BORGES": [
+    "DANIELA RENATA REZENDE FERREIRA BORGES": ["Férias de 18/11/2026 a 17/12/2026"],
+    "ALUISIO TEODORO FALLEIROS": [
+      8,
+      9,
+      0,
       1,
       2,
       3,
@@ -204,11 +207,6 @@
       5,
       6,
       7
-    ],
-    "ALUISIO TEODORO FALLEIROS": [
-      8,
-      9,
-      0
     ]
   },
   "Postos Avançados": [
