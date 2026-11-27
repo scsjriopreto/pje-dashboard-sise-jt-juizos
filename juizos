@@ -4,34 +4,38 @@
       2,
       4,
       6,
-      8
+      8,
+      0
     ],
     "RINALDO SOLDAN JOAZEIRO": [
       1,
       3,
       5,
-      7
-      ],
+      7,
+      9
+    ],
     "CHRISTOPHE GOMES DE OLIVEIRA": [
-      9,
-      0
+      "Férias de 28/11/2026 a 18/12/2026"
     ]
   },
   "2ª Vara do Trabalho de São José do Rio Preto": {
-    "SIDNEY PONTES BRAGA": [ 
+    "SIDNEY PONTES BRAGA": [
+      1,
+      3,
+      5,
+      7,
       2,
       4,
       6,
       8,
-      1,
-      3,
-      5,
-      7
-      ],
-    "ADRIANA FONSECA PERIN": ["Férias de 23/11/2026 a 12/12/2026"],
-    "CHRISTOPHE GOMES DE OLIVEIRA": [
       9,
       0
+    ],
+    "ADRIANA FONSECA PERIN": [
+      "Férias de 23/11/2026 a 12/12/2026"
+    ],
+    "CHRISTOPHE GOMES DE OLIVEIRA": [
+      "Férias de 28/11/2026 a 18/12/2026"
     ]
   },
   "3ª Vara do Trabalho de São José do Rio Preto": {
@@ -39,21 +43,24 @@
       1,
       3,
       5,
-      7
-    ],
-    "RODARTE RIBEIRO": [
+      7,
       2,
       4,
       6,
       8
-      ],
+    ],
+    "RODARTE RIBEIRO": [
+      "Férias de 30/11/2026 a 19/12/2026"
+    ],
     "RODRIGO FERNANDO SANITA": [
       9,
       0
     ]
   },
   "4ª Vara do Trabalho de São José do Rio Preto": {
-    "CONCEICAO APARECIDA ROCHA DE PETRIBU FARIA": ["Compensação de 18/11/2026 a 26/11/2026 e Férias de 28/11/2026 a 18/12/2026"],
+    "CONCEICAO APARECIDA ROCHA DE PETRIBU FARIA": [
+      "Férias de 28/11/2026 a 18/12/2026"
+    ],
     "PRISCILA GIL DE SOUZA MURAD": [
       2,
       4,
@@ -71,18 +78,19 @@
   },
   "1ª Vara do Trabalho de Catanduva": {
     "CAUE BRAMBILLA DA SILVA": [
-      1,
-      3,
-      5,
-      7,
-      9
-      ],
+      "Férias de 28/11/2026 a 18/12/2026"
+    ],
     "FERNANDA AMABILE MARINHO DE SOUZA GOMES": [
       0,
       2,
       4,
       6,
-      8
+      8,
+      1,
+      3,
+      5,
+      7,
+      9
     ]
   },
   "2ª Vara do Trabalho de Catanduva": {
@@ -98,10 +106,18 @@
       6,
       8
     ],
-    "MAURO CESAR MORELI": ["Férias de 16/11/2026 a 05/12/2026"]
+    "MAURO CESAR MORELI": [
+      "Férias de 16/11/2026 a 05/12/2026"
+    ]
   },
   "Vara do Trabalho de Votuporanga": {
     "SANDRA MARIA ZIRONDI": [
+      "Férias de 29/11/2026 a 18/12/2026"
+    ],
+    "JOSE RODRIGUES DA SILVA NETO": [
+      0,
+      8,
+      9,
       1,
       2,
       3,
@@ -109,11 +125,6 @@
       5,
       6,
       7
-    ],
-    "JOSE RODRIGUES DA SILVA NETO": [
-      0,
-      8,
-      9
     ]
   },
   "Vara do Trabalho de Tanabi": {
@@ -159,7 +170,9 @@
       9,
       0
     ],
-    "ANGELA NAIRA BELINSKI": ["Compensação de plantão de 16/11/2026 a 17/11/2026 e Férias de 18/11/2026 a 17/12/2026"]
+    "ANGELA NAIRA BELINSKI": [
+      "Férias de 18/11/2026 a 18/12/2026"
+    ]
   },
   "Vara do Trabalho de Barretos": {
     "LEANDRO RENATO CATELAN ENCINAS": [
@@ -174,12 +187,16 @@
       4,
       6,
       8,
-      0     
+      0
     ],
-    "ANGELA NAIRA BELINSKI": ["Compensação de plantão de 16/11/2026 a 17/11/2026 e Férias de 18/11/2026 a 17/12/2026"]
+    "ANGELA NAIRA BELINSKI": [
+      "Férias de 18/11/2026 a 18/12/2026"
+    ]
   },
   "Vara do Trabalho de José Bonifácio": {
-    "ANA PAULA SILVA CAMPOS MISKULIN": ["Férias de 18/11/2026 a 17/12/2026"],
+    "ANA PAULA SILVA CAMPOS MISKULIN": [
+      "Férias de 18/11/2026 a 18/12/2026"
+    ],
     "ALUISIO TEODORO FALLEIROS": [
       8,
       9,
@@ -191,10 +208,12 @@
       5,
       6,
       7
-     ]
+    ]
   },
   "Vara do Trabalho de Olímpia": {
-    "DANIELA RENATA REZENDE FERREIRA BORGES": ["Férias de 18/11/2026 a 17/12/2026"],
+    "DANIELA RENATA REZENDE FERREIRA BORGES": [
+      "Férias de 18/11/2026 a 18/12/2026"
+    ],
     "ALUISIO TEODORO FALLEIROS": [
       8,
       9,
