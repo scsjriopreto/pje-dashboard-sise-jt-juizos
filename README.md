@@ -24,5 +24,5 @@ cronograma → Run workflow**.
 ## Configuração
 
 - `config/base.json` — divisão fixa de finais por vara (titular/simetria) e lista de Postos Avançados.
-- `config/feriados.json` — feriados e recesso (dias não úteis além de fins de semana). Revise todo ano.
+- `config/feriados.json` — feriados (dias não úteis além de fins de semana). Revise todo ano.
 - Teste local: `python scripts/atualiza_juizos.py --xlsx cronograma.xlsx --agora "2026-12-07 08:00" --saida /tmp/juizos`
