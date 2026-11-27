@@ -1,0 +1,76 @@
+{
+  "_comentario": "Divisão fixa de finais por vara (aba 'Divisão Finais - Fixo' da planilha). papel: 'titular' absorve os finais de colegas ausentes; 'simetria' só absorve se não houver titular presente.",
+  "varas": {
+    "1ª Vara do Trabalho de São José do Rio Preto": [
+      {"juiz": "MARCEL DE AVILA SOARES MARQUES", "finais": [2, 4, 6, 8], "papel": "titular"},
+      {"juiz": "RINALDO SOLDAN JOAZEIRO", "finais": [1, 3, 5, 7], "papel": "titular"},
+      {"juiz": "CHRISTOPHE GOMES DE OLIVEIRA", "finais": [9, 0], "papel": "simetria"}
+    ],
+    "2ª Vara do Trabalho de São José do Rio Preto": [
+      {"juiz": "SIDNEY PONTES BRAGA", "finais": [1, 3, 5, 7], "papel": "titular"},
+      {"juiz": "ADRIANA FONSECA PERIN", "finais": [2, 4, 6, 8], "papel": "titular"},
+      {"juiz": "CHRISTOPHE GOMES DE OLIVEIRA", "finais": [9, 0], "papel": "simetria"}
+    ],
+    "3ª Vara do Trabalho de São José do Rio Preto": [
+      {"juiz": "SAMANTHA IANSEN FALLEIROS", "finais": [1, 3, 5, 7], "papel": "titular"},
+      {"juiz": "RODARTE RIBEIRO", "finais": [2, 4, 6, 8], "papel": "titular"},
+      {"juiz": "RODRIGO FERNANDO SANITA", "finais": [9, 0], "papel": "simetria"}
+    ],
+    "4ª Vara do Trabalho de São José do Rio Preto": [
+      {"juiz": "CONCEICAO APARECIDA ROCHA DE PETRIBU FARIA", "finais": [1, 3, 5, 7], "papel": "titular"},
+      {"juiz": "PRISCILA GIL DE SOUZA MURAD", "finais": [2, 4, 6, 8], "papel": "titular"},
+      {"juiz": "RODRIGO FERNANDO SANITA", "finais": [9, 0], "papel": "simetria"}
+    ],
+    "1ª Vara do Trabalho de Catanduva": [
+      {"juiz": "CAUE BRAMBILLA DA SILVA", "finais": [1, 3, 5, 7, 9], "papel": "titular"},
+      {"juiz": "FERNANDA AMABILE MARINHO DE SOUZA GOMES", "finais": [0, 2, 4, 6, 8], "papel": "titular"}
+    ],
+    "2ª Vara do Trabalho de Catanduva": [
+      {"juiz": "FERNANDO RODRIGUES CARVALHO", "finais": [1, 3, 5, 7, 9], "papel": "titular"},
+      {"juiz": "MAURO CESAR MORELI", "finais": [0, 2, 4, 6, 8], "papel": "titular"}
+    ],
+    "Vara do Trabalho de Votuporanga": [
+      {"juiz": "SANDRA MARIA ZIRONDI", "finais": [1, 2, 3, 4, 5, 6, 7], "papel": "titular"},
+      {"juiz": "JOSE RODRIGUES DA SILVA NETO", "finais": [0, 8, 9], "papel": "titular"}
+    ],
+    "Vara do Trabalho de Tanabi": [
+      {"juiz": "JULIO CESAR TREVISAN RODRIGUES", "finais": [1, 2, 3, 4, 5, 6, 7], "papel": "titular"},
+      {"juiz": "JOSE RODRIGUES DA SILVA NETO", "finais": [0, 8, 9], "papel": "titular"}
+    ],
+    "Vara do Trabalho de Fernandópolis": [
+      {"juiz": "VIRGILIO DE PAULA BASSANELLI", "finais": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "papel": "titular"}
+    ],
+    "Vara do Trabalho de Jales": [
+      {"juiz": "ARTHUR ALBERTIN NETO", "finais": [1, 2, 3, 4, 5, 6, 7, 8], "papel": "titular"},
+      {"juiz": "ANGELA NAIRA BELINSKI", "finais": [9, 0], "papel": "simetria"}
+    ],
+    "Vara do Trabalho de Barretos": [
+      {"juiz": "LEANDRO RENATO CATELAN ENCINAS", "finais": [1, 3, 5, 7], "papel": "titular"},
+      {"juiz": "TONY EVERSON SIMAO CARMONA", "finais": [2, 4, 6, 8], "papel": "titular"},
+      {"juiz": "ANGELA NAIRA BELINSKI", "finais": [9, 0], "papel": "simetria"}
+    ],
+    "Vara do Trabalho de José Bonifácio": [
+      {"juiz": "ANA PAULA SILVA CAMPOS MISKULIN", "finais": [1, 2, 3, 4, 5, 6, 7], "papel": "titular"},
+      {"juiz": "ALUISIO TEODORO FALLEIROS", "finais": [8, 9, 0], "papel": "titular"}
+    ],
+    "Vara do Trabalho de Olímpia": [
+      {"juiz": "DANIELA RENATA REZENDE FERREIRA BORGES", "finais": [1, 2, 3, 4, 5, 6, 7], "papel": "titular"},
+      {"juiz": "ALUISIO TEODORO FALLEIROS", "finais": [8, 9, 0], "papel": "titular"}
+    ]
+  },
+  "postos_avancados": [
+    "CON1 - São José do Rio Preto",
+    "CON2 - São José do Rio Preto",
+    "LIQ1 - São José do Rio Preto",
+    "LIQ2 - São José do Rio Preto",
+    "EXE1 - São José do Rio Preto",
+    "EXE2 - São José do Rio Preto",
+    "EXE3 - São José do Rio Preto",
+    "EXE4 - São José do Rio Preto",
+    "DIVEX - São José do Rio Preto",
+    "Órgão Centralizador de Leilões Judiciais de São José do Rio Preto",
+    "DAM - São José do Rio Preto",
+    "Juizado Especial da Infância e Adolescência de São José do Rio Preto",
+    "1º Núcleo de Justiça 4.0"
+  ]
+}
